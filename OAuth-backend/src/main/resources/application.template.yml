@@ -1,0 +1,10 @@
+spring.application.name: OAuth-backend
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id:
+            client-secret:
